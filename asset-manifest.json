@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/1minute-pay-front-end/static/css/main.1740dc89.css",
+    "main.js": "/1minute-pay-front-end/static/js/main.fb73c0ff.js",
+    "static/js/787.28cb0dcd.chunk.js": "/1minute-pay-front-end/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg-video.mp4": "/1minute-pay-front-end/static/media/bg-video.50bdd580cccb2707dfce.mp4",
+    "static/media/infinity.svg": "/1minute-pay-front-end/static/media/infinity.73f44cee6f84d094655cbce854f407ee.svg",
+    "static/media/ethereum.svg": "/1minute-pay-front-end/static/media/ethereum.e486b24a3d5ca5015745ab65e3a905ee.svg",
+    "static/media/ethereum-box.svg": "/1minute-pay-front-end/static/media/ethereum-box.d9e209deb4163e028f6e91fd9556c73b.svg",
+    "static/media/tron.svg": "/1minute-pay-front-end/static/media/tron.d88c52703466504c020fd19b122c0cf4.svg",
+    "static/media/bitcoin.svg": "/1minute-pay-front-end/static/media/bitcoin.f205e856885b903797b6e5023a095b9d.svg",
+    "static/media/binance.svg": "/1minute-pay-front-end/static/media/binance.9cdfa748271a2a86ffc4945d02e6bac1.svg",
+    "static/media/lite-coin.svg": "/1minute-pay-front-end/static/media/lite-coin.aef48a164ccbba6f022a52450551fc10.svg",
+    "static/media/polygon.svg": "/1minute-pay-front-end/static/media/polygon.dccd4559aca10771baaa3a78b678e8e3.svg",
+    "static/media/tether.svg": "/1minute-pay-front-end/static/media/tether.5e35f4a6e7e1965c6c1981886d1f1bdb.svg",
+    "static/media/robot.svg": "/1minute-pay-front-end/static/media/robot.f469ad904d1387df37242aa812c4b011.svg",
+    "static/media/logo.svg": "/1minute-pay-front-end/static/media/logo.9bb126739d52f3288f609376ff875540.svg",
+    "static/media/footer-logo.svg": "/1minute-pay-front-end/static/media/footer-logo.096350db7ec4cbe9b106804feff65439.svg",
+    "static/media/andriod.svg": "/1minute-pay-front-end/static/media/andriod.10efec2055184ef502adddfe14ebe58e.svg",
+    "static/media/amazon-box.svg": "/1minute-pay-front-end/static/media/amazon-box.0397a488013aaaf1ee578c5618eae388.svg",
+    "static/media/apple.svg": "/1minute-pay-front-end/static/media/apple.db8a6c6a5a312d69bed2ee2e8fc9bfff.svg",
+    "index.html": "/1minute-pay-front-end/index.html",
+    "static/media/menu-open.svg": "/1minute-pay-front-end/static/media/menu-open.73ab50eca10eb96f08c43e96f4b36414.svg",
+    "static/media/webview.svg": "/1minute-pay-front-end/static/media/webview.06151569b0e9a5a4569a3415b762e93a.svg",
+    "static/media/mobileapp.svg": "/1minute-pay-front-end/static/media/mobileapp.718e8f6a9da25f59e380a2af2c5a2023.svg",
+    "static/media/arrow-down.svg": "/1minute-pay-front-end/static/media/arrow-down.30bf19e3065e8d8e6c83da3e04c73831.svg",
+    "static/media/about-close.svg": "/1minute-pay-front-end/static/media/about-close.9d2d40d6aca023f47ac8885fb44f06f4.svg",
+    "static/media/menu-close.svg": "/1minute-pay-front-end/static/media/menu-close.20680bd6b1816471a9c02cb901485fe2.svg",
+    "static/media/line.svg": "/1minute-pay-front-end/static/media/line.2b141defc0f4f240a20ab98fc38d1f62.svg",
+    "static/media/white-line.svg": "/1minute-pay-front-end/static/media/white-line.23576a97a5c7149a06956c6a82fa9304.svg",
+    "static/media/download-line.svg": "/1minute-pay-front-end/static/media/download-line.3cd892b13a8569598631013da9bbb450.svg",
+    "main.1740dc89.css.map": "/1minute-pay-front-end/static/css/main.1740dc89.css.map",
+    "main.fb73c0ff.js.map": "/1minute-pay-front-end/static/js/main.fb73c0ff.js.map",
+    "787.28cb0dcd.chunk.js.map": "/1minute-pay-front-end/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1740dc89.css",
+    "static/js/main.fb73c0ff.js"
+  ]
+}
