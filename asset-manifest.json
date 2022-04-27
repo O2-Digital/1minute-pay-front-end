@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/1minute-pay-front-end/static/css/main.1740dc89.css",
-    "main.js": "/1minute-pay-front-end/static/js/main.fb73c0ff.js",
+    "main.js": "/1minute-pay-front-end/static/js/main.0ddbf615.js",
     "static/js/787.28cb0dcd.chunk.js": "/1minute-pay-front-end/static/js/787.28cb0dcd.chunk.js",
-    "static/media/bg-video.mp4": "/1minute-pay-front-end/static/media/bg-video.50bdd580cccb2707dfce.mp4",
+    "static/media/bg.svg": "/1minute-pay-front-end/static/media/bg.1b48f1bcd61f79420e875fb97427a4ff.svg",
     "static/media/infinity.svg": "/1minute-pay-front-end/static/media/infinity.73f44cee6f84d094655cbce854f407ee.svg",
     "static/media/ethereum.svg": "/1minute-pay-front-end/static/media/ethereum.e486b24a3d5ca5015745ab65e3a905ee.svg",
     "static/media/ethereum-box.svg": "/1minute-pay-front-end/static/media/ethereum-box.d9e209deb4163e028f6e91fd9556c73b.svg",
@@ -13,6 +13,7 @@
     "static/media/lite-coin.svg": "/1minute-pay-front-end/static/media/lite-coin.aef48a164ccbba6f022a52450551fc10.svg",
     "static/media/polygon.svg": "/1minute-pay-front-end/static/media/polygon.dccd4559aca10771baaa3a78b678e8e3.svg",
     "static/media/tether.svg": "/1minute-pay-front-end/static/media/tether.5e35f4a6e7e1965c6c1981886d1f1bdb.svg",
+    "static/media/bg-video.mp4": "/1minute-pay-front-end/static/media/bg-video.4044986d9aa9b58ed0bb.mp4",
     "static/media/robot.svg": "/1minute-pay-front-end/static/media/robot.f469ad904d1387df37242aa812c4b011.svg",
     "static/media/logo.svg": "/1minute-pay-front-end/static/media/logo.9bb126739d52f3288f609376ff875540.svg",
     "static/media/footer-logo.svg": "/1minute-pay-front-end/static/media/footer-logo.096350db7ec4cbe9b106804feff65439.svg",
@@ -30,11 +31,11 @@
     "static/media/white-line.svg": "/1minute-pay-front-end/static/media/white-line.23576a97a5c7149a06956c6a82fa9304.svg",
     "static/media/download-line.svg": "/1minute-pay-front-end/static/media/download-line.3cd892b13a8569598631013da9bbb450.svg",
     "main.1740dc89.css.map": "/1minute-pay-front-end/static/css/main.1740dc89.css.map",
-    "main.fb73c0ff.js.map": "/1minute-pay-front-end/static/js/main.fb73c0ff.js.map",
+    "main.0ddbf615.js.map": "/1minute-pay-front-end/static/js/main.0ddbf615.js.map",
     "787.28cb0dcd.chunk.js.map": "/1minute-pay-front-end/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1740dc89.css",
-    "static/js/main.fb73c0ff.js"
+    "static/js/main.0ddbf615.js"
   ]
 }
